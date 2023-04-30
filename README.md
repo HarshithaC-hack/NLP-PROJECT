@@ -1,12 +1,13 @@
 # NLP-PROJECT
-Accuracy:
-Svc-91%
-random forest-87
-knn -84
-lr-91
-Naive Bayes-86
 
-Explanation of the accuracy
+Accuracy:
+SVC-91%,
+Random forest-87%,
+k-NN -84%,
+LR-91%,
+Naive Bayes-86%.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Explanation of the accuracy:
 
 The accuracy of a machine learning model depends on several factors, such as the quality of the data, the choice of algorithm, and the model's hyperparameters. In the given notebook, several models were trained to predict the sentiment of Amazon customer reviews for the "PC" product category. 
 
@@ -20,7 +21,7 @@ The Naive Bayes model achieved an accuracy of 86%, which is also lower than the 
 
 In summary, the high accuracy scores achieved by SVC and LR models can be attributed to their ability to handle high-dimensional text data and their ability to learn complex decision boundaries. Random Forest and Naive Bayes models also performed well but not as good as the top two models.
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Models used:
 
