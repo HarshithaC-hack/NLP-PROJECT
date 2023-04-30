@@ -7,7 +7,7 @@ k-NN -84%,
 LR-91%,
 Naive Bayes-86%.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Explanation of the accuracy:
+Explanation for the accuracy:
 
 The accuracy of a machine learning model depends on several factors, such as the quality of the data, the choice of algorithm, and the model's hyperparameters. In the given notebook, several models were trained to predict the sentiment of Amazon customer reviews for the "PC" product category. 
 
